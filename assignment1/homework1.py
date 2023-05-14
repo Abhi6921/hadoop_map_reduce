@@ -24,7 +24,7 @@ def reducer(heights):
 #initialize the dictionary and append the output to it.
 average_height_results = {}
 
-#open and 
+#open and read the .csv file
 with open('Soccer2019.csv', 'r') as csvFile:
     reader = csv.DictReader(csvFile)
     for row in reader:
