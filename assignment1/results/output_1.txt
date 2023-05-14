@@ -1,0 +1,164 @@
+Argentina: 5.72
+Portugal: 5.77
+Brazil: 5.78
+Spain: 5.76
+Belgium: 5.85
+Croatia: 5.97
+Uruguay: 5.8
+Slovenia: 5.89
+Poland: 5.89
+Germany: 5.89
+France: 5.8
+England: 5.79
+Italy: 5.84
+Egypt: 5.86
+Colombia: 5.71
+Denmark: 5.92
+Gabon: 5.7
+Wales: 5.74
+Senegal: 5.95
+Costa Rica: 5.82
+Slovakia: 6.0
+Netherlands: 5.86
+Bosnia Herzegovina: 5.9
+Morocco: 5.8
+Serbia: 6.01
+Algeria: 5.76
+Austria: 5.85
+Greece: 5.89
+Chile: 5.66
+Sweden: 5.8
+Korea Republic: 5.81
+Finland: 5.86
+Guinea: 5.8
+Montenegro: 6.03
+Armenia: 5.54
+Switzerland: 5.81
+Norway: 5.85
+Czech Republic: 5.98
+Scotland: 5.79
+Ghana: 5.67
+Central African Rep.: 6.2
+DR Congo: 5.79
+Ivory Coast: 5.73
+Russia: 5.87
+Ukraine: 5.93
+Iceland: 5.94
+Mexico: 5.71
+Jamaica: 5.77
+Albania: 5.82
+Venezuela: 5.76
+Japan: 5.71
+Turkey: 5.75
+Ecuador: 5.65
+Paraguay: 5.65
+Mali: 5.86
+Nigeria: 5.89
+Cameroon: 5.9
+Dominican Republic: 5.41
+Israel: 5.64
+Kenya: 5.96
+Hungary: 5.88
+Republic of Ireland: 5.75
+Romania: 5.74
+United States: 5.85
+Cape Verde: 5.95
+Australia: 5.78
+Peru: 5.68
+Togo: 5.79
+Syria: 5.87
+Zimbabwe: 5.8
+Angola: 5.68
+Burkina Faso: 5.71
+Iran: 5.85
+Estonia: 6.02
+Tunisia: 5.89
+Equatorial Guinea: 5.8
+New Zealand: 5.83
+FYR Macedonia: 5.92
+United Arab Emirates: 5.8
+China PR: 5.76
+Guinea Bissau: 5.97
+Bulgaria: 5.88
+Kosovo: 5.69
+South Africa: 5.76
+Madagascar: 5.62
+Georgia: 5.85
+Tanzania: 5.6
+Gambia: 5.98
+Cuba: 5.73
+Belarus: 5.88
+Uzbekistan: 5.55
+Benin: 5.85
+Congo: 5.83
+Mozambique: 5.55
+Honduras: 5.61
+Canada: 5.81
+Northern Ireland: 5.69
+Cyprus: 5.73
+Saudi Arabia: 5.68
+Curacao: 5.86
+Moldova: 6.0
+Bolivia: 5.72
+Trinidad & Tobago: 5.83
+Sierra Leone: 5.69
+Zambia: 5.6
+Chad: 6.05
+Philippines: 6.15
+Haiti: 5.76
+Comoros: 5.65
+Libya: 5.62
+Panama: 5.79
+São Tomé & Príncipe: 5.9
+Eritrea: 5.65
+Oman: 6.4
+Iraq: 5.5
+Burundi: 5.34
+Fiji: 5.7
+New Caledonia: 6.0
+Lithuania: 6.06
+Luxembourg: 5.97
+Korea DPR: 5.55
+Liechtenstein: 5.63
+St Kitts Nevis: 5.87
+Latvia: 6.3
+Suriname: 5.65
+Uganda: 5.8
+El Salvador: 5.38
+Bermuda: 5.8
+Kuwait: 6.5
+Antigua & Barbuda: 5.3
+Thailand: 5.52
+Mauritius: 6.1
+Guatemala: 6.2
+Liberia: 5.1
+Kazakhstan: 5.3
+Niger: 5.77
+Mauritania: 5.85
+Montserrat: 5.63
+Namibia: 5.7
+Azerbaijan: 5.76
+Guam: 5.9
+Faroe Islands: 6.02
+India: 5.79
+Nicaragua: 5.11
+Barbados: 5.77
+Lebanon: 6.2
+Palestine: 6.0
+Guyana: 6.1
+Sudan: 5.6
+St Lucia: 6.0
+Ethiopia: 5.9
+Puerto Rico: 5.1
+Grenada: 6.1
+Jordan: 5.9
+Rwanda: 5.11
+Qatar: 6.0
+Afghanistan: 5.65
+Hong Kong: 5.85
+Andorra: 6.0
+Malta: 5.6
+Belize: 5.11
+South Sudan: 6.7
+Indonesia: 5.5
+Botswana: 5.9
